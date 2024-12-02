@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../schema.json
+chainId: 21097
+displayName: Rivest
+domainId: 21097
+isTestnet: true
+name: rivest
+nativeToken:
+  decimals: 18
+  name: Ether
+  symbol: ETH
+protocol: ethereum
+rpcUrls:
+  - http: https://validator.rivest.inco.org
